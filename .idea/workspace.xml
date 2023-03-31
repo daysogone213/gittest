@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28af9d06-82ac-4ae6-bdad-20dda7234b36" name="变更" comment="third commit">
+    <list default="true" id="28af9d06-82ac-4ae6-bdad-20dda7234b36" name="变更" comment="for commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/科学研究委员会/主要的/Java语言（一种计算机语言，尤用于创建网站）/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/GitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="3ce0749e2329175dbd7864468666bd591f3da34f" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680265356470</updated>
-      <workItem from="1680265357925" duration="5763000" />
+      <workItem from="1680265357925" duration="6184000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1680265725442</created>
@@ -103,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680271256079</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="for commit">
+      <created>1680278678194</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680278678194</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +130,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
+    <MESSAGE value="for commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="for commit" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
